@@ -1,0 +1,182 @@
+[
+  {
+    "id": "S001",
+    "nis": "20261001",
+    "nisn": "0078123401",
+    "name": "Muhammad Alif Pratama",
+    "class": "X-A",
+    "gender": "L",
+    "phone": "085200000001",
+    "qrCode": "STUDENT_20261001"
+  },
+  {
+    "id": "S002",
+    "nis": "20261002",
+    "nisn": "0078123402",
+    "name": "Anisa Nur Fadilah",
+    "class": "X-A",
+    "gender": "P",
+    "phone": "085200000002",
+    "qrCode": "STUDENT_20261002"
+  },
+  {
+    "id": "S003",
+    "nis": "20261003",
+    "nisn": "0078123403",
+    "name": "Bagas Surya Kencana",
+    "class": "X-A",
+    "gender": "L",
+    "phone": "085200000003",
+    "qrCode": "STUDENT_20261003"
+  },
+  {
+    "id": "S004",
+    "nis": "20261004",
+    "nisn": "0078123404",
+    "name": "Clarissa Putri Ayuningtyas",
+    "class": "X-A",
+    "gender": "P",
+    "phone": "085200000004",
+    "qrCode": "STUDENT_20261004"
+  },
+  {
+    "id": "S005",
+    "nis": "20261005",
+    "nisn": "0078123405",
+    "name": "Dimas Aditya Wardhana",
+    "class": "X-A",
+    "gender": "L",
+    "phone": "085200000005",
+    "qrCode": "STUDENT_20261005"
+  },
+  {
+    "id": "S006",
+    "nis": "20261006",
+    "nisn": "0078123406",
+    "name": "Eva Rosalina",
+    "class": "X-A",
+    "gender": "P",
+    "phone": "085200000006",
+    "qrCode": "STUDENT_20261006"
+  },
+  {
+    "id": "S007",
+    "nis": "20261007",
+    "nisn": "0078123407",
+    "name": "Fajar Nugraha",
+    "class": "X-A",
+    "gender": "L",
+    "phone": "085200000007",
+    "qrCode": "STUDENT_20261007"
+  },
+  {
+    "id": "S008",
+    "nis": "20261008",
+    "nisn": "0078123408",
+    "name": "Gita Maharani",
+    "class": "X-A",
+    "gender": "P",
+    "phone": "085200000008",
+    "qrCode": "STUDENT_20261008"
+  },
+  {
+    "id": "S009",
+    "nis": "20262001",
+    "nisn": "0078123409",
+    "name": "Hafiz Maulana",
+    "class": "X-B",
+    "gender": "L",
+    "phone": "085200000009",
+    "qrCode": "STUDENT_20262001"
+  },
+  {
+    "id": "S010",
+    "nis": "20262002",
+    "nisn": "0078123410",
+    "name": "Intan Permatasari",
+    "class": "X-B",
+    "gender": "P",
+    "phone": "085200000010",
+    "qrCode": "STUDENT_20262002"
+  },
+  {
+    "id": "S011",
+    "nis": "20262003",
+    "nisn": "0078123411",
+    "name": "Jonathan Kevin",
+    "class": "X-B",
+    "gender": "L",
+    "phone": "085200000011",
+    "qrCode": "STUDENT_20262003"
+  },
+  {
+    "id": "S012",
+    "nis": "20262004",
+    "nisn": "0078123412",
+    "name": "Kurniawati Dewi",
+    "class": "X-B",
+    "gender": "P",
+    "phone": "085200000012",
+    "qrCode": "STUDENT_20262004"
+  },
+  {
+    "id": "S013",
+    "nis": "20251001",
+    "nisn": "0068123413",
+    "name": "Luthfi Hakim",
+    "class": "XI-IPA 1",
+    "gender": "L",
+    "phone": "085200000013",
+    "qrCode": "STUDENT_20251001"
+  },
+  {
+    "id": "S014",
+    "nis": "20251002",
+    "nisn": "0068123414",
+    "name": "Maya Salsabila",
+    "class": "XI-IPA 1",
+    "gender": "P",
+    "phone": "085200000014",
+    "qrCode": "STUDENT_20251002"
+  },
+  {
+    "id": "S015",
+    "nis": "20251003",
+    "nisn": "0068123415",
+    "name": "Naufal Zaidan",
+    "class": "XI-IPA 1",
+    "gender": "L",
+    "phone": "085200000015",
+    "qrCode": "STUDENT_20251003"
+  },
+  {
+    "id": "S016",
+    "nis": "20241001",
+    "nisn": "0058123416",
+    "name": "Putri Anggraini",
+    "class": "XII-MIPA",
+    "gender": "P",
+    "phone": "085200000016",
+    "qrCode": "STUDENT_20241001"
+  },
+  {
+    "id": "S017",
+    "nis": "20241002",
+    "nisn": "0058123417",
+    "name": "Rendra Danuarta",
+    "class": "XII-MIPA",
+    "gender": "L",
+    "phone": "085200000017",
+    "qrCode": "STUDENT_20241002"
+  },
+  {
+    "id": "S018",
+    "nis": "20241003",
+    "nisn": "0058123418",
+    "name": "Siti Nurhaliza",
+    "class": "XII-IPS",
+    "gender": "P",
+    "phone": "085200000018",
+    "qrCode": "STUDENT_20241003"
+  }
+]

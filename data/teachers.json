@@ -1,0 +1,52 @@
+[
+  {
+    "id": "G001",
+    "nip": "198001012005011001",
+    "name": "Drs. Budi Santoso, M.Pd",
+    "role": "Kepala Sekolah & Guru Fisika",
+    "phone": "081234567801",
+    "gender": "L",
+    "qrCode": "TEACHER_198001012005011001",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150"
+  },
+  {
+    "id": "G002",
+    "nip": "198505122008012003",
+    "name": "Siti Rahmawati, S.Pd",
+    "role": "Wali Kelas X-A & Guru Matematika",
+    "phone": "081234567802",
+    "gender": "P",
+    "qrCode": "TEACHER_198505122008012003",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150"
+  },
+  {
+    "id": "G003",
+    "nip": "198903202012011004",
+    "name": "Ahmad Fauzi, S.Kom",
+    "role": "Guru Informatika & TIK",
+    "phone": "081234567803",
+    "gender": "L",
+    "qrCode": "TEACHER_198903202012011004",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150"
+  },
+  {
+    "id": "G004",
+    "nip": "199207152016012005",
+    "name": "Dewi Lestari, M.Hum",
+    "role": "Guru Bahasa Indonesia",
+    "phone": "081234567804",
+    "gender": "P",
+    "qrCode": "TEACHER_199207152016012005",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150"
+  },
+  {
+    "id": "G005",
+    "nip": "199011112015011006",
+    "name": "Rizky Ramadhan, S.Pd",
+    "role": "Guru Pendidikan Jasmani & Olahraga",
+    "phone": "081234567805",
+    "gender": "L",
+    "qrCode": "TEACHER_199011112015011006",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150"
+  }
+]

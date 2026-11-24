@@ -1,0 +1,72 @@
+[
+  {
+    "id": "att_init_1",
+    "type": "teacher",
+    "memberId": "G001",
+    "identifier": "198001012005011001",
+    "name": "Drs. Budi Santoso, M.Pd",
+    "subInfo": "Kepala Sekolah",
+    "date": "2026-11-24",
+    "checkInTime": "06:45:10",
+    "checkOutTime": null,
+    "status": "Hadir",
+    "method": "QR_CARD_SCAN",
+    "notes": "Tepat Waktu"
+  },
+  {
+    "id": "att_init_2",
+    "type": "teacher",
+    "memberId": "G002",
+    "identifier": "198505122008012003",
+    "name": "Siti Rahmawati, S.Pd",
+    "subInfo": "Wali Kelas X-A",
+    "date": "2026-11-24",
+    "checkInTime": "06:55:40",
+    "checkOutTime": null,
+    "status": "Hadir",
+    "method": "QR_CARD_SCAN",
+    "notes": "Tepat Waktu"
+  },
+  {
+    "id": "att_init_3",
+    "type": "student",
+    "memberId": "S001",
+    "identifier": "20261001",
+    "name": "Muhammad Alif Pratama",
+    "subInfo": "X-A",
+    "date": "2026-11-24",
+    "checkInTime": "07:02:15",
+    "checkOutTime": null,
+    "status": "Hadir",
+    "method": "QR_CARD_SCAN",
+    "notes": "Tepat Waktu"
+  },
+  {
+    "id": "att_init_4",
+    "type": "student",
+    "memberId": "S002",
+    "identifier": "20261002",
+    "name": "Anisa Nur Fadilah",
+    "subInfo": "X-A",
+    "date": "2026-11-24",
+    "checkInTime": "07:22:05",
+    "checkOutTime": null,
+    "status": "Terlambat",
+    "method": "QR_CARD_SCAN",
+    "notes": "Terlambat 7 menit"
+  },
+  {
+    "id": "att_1795491196574_2hev",
+    "type": "student",
+    "memberId": "S003",
+    "identifier": "20261003",
+    "name": "Bagas Surya Kencana",
+    "subInfo": "X-A",
+    "date": "2026-11-24",
+    "checkInTime": "10:33:16",
+    "checkOutTime": null,
+    "status": "Terlambat",
+    "method": "QR_CARD_SCAN",
+    "notes": "Terlambat (Lewat dari 07:15)"
+  }
+]

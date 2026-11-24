@@ -1,0 +1,10 @@
+{
+  "schoolName": "SMA Negeri 1 Prestasi Nusantara",
+  "schoolAddress": "Jl. Pendidikan No. 45, Jakarta",
+  "schoolLogo": "https://cdn-icons-png.flaticon.com/512/2997/2997295.png",
+  "checkInStart": "06:00",
+  "checkInLate": "07:15",
+  "checkInEnd": "11:00",
+  "checkOutStart": "13:30",
+  "checkOutEnd": "18:00"
+}
